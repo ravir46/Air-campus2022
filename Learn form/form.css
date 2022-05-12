@@ -1,0 +1,30 @@
+.submit{
+    text-align: center;
+    width: 400px;
+    padding: 8px;
+    font-size: 20px;
+     font-family: sans-serif;
+    
+     font-display: none;
+     border: none;
+     border-radius: 5px;
+     background-color: rgb(88, 88, 216);
+     color: rgb(81, 81, 228);
+     cursor: pointer;
+
+}
+.form{
+    width: 600px;
+    margin: 200px auto 0px auto;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 10px solid rgba(100, 148, 237, 0.021);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.233);
+    border-color: rgba(0, 0, 0, 0.068);
+    
+}
+h1{
+    text-align: center;
+}
